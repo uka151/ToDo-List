@@ -1,0 +1,8 @@
+E:\Course\Todo List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\Course\Todo List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\Course\Todo List\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\Course\Todo List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\Course\Todo List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\Course\Todo List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\Course\Todo List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\Course\Todo List\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
